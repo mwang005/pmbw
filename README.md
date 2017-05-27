@@ -1,11 +1,11 @@
 # pmbw
 Clone from http://panthema.net/2013/pmbw/
 
-Parallel Memory Bandwidth Benchmark / Measurement
+#### Parallel Memory Bandwidth Benchmark / Measurement
 
 ---
 
-##Quick Start
+## Quick Start
 
     yum install gnuplot
         gnuplot-4.6.2-3.el7.x86_64.rpm
